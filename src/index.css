@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0 20px;
+  font-family: sans-serif;
+}
+
+.App {
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.avatar {
+  width: 100%;
+  height: auto;
+}
+
+.full-width {
+  width: 100%
+}
+
+.add-form {
+  padding: 2rem;
+}
+
+.card-list {
+  padding: 1rem;
+}
+
+.btn-circle {
+  margin-left: 10px !important;
+}
